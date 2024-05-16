@@ -14,3 +14,5 @@
 ### Bonus
 ![Bonus](https://github.com/lru0409/Libft/assets/74223246/5ae3f90e-64d8-4adc-8c7c-a333f9878aa8)
 
+##
+학습 내용과 프로젝트 진행 과정에 대한 자세한 이야기는 [여기서](https://velog.io/@ronn/Libft-%EB%82%98%EB%A7%8C%EC%9D%98-C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%9E%90) 확인할 수 있다.
